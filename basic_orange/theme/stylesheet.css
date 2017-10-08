@@ -4738,22 +4738,21 @@ dl.details dd {
 
 .jumpbox-cat-link {
   background-color: #555555;
-  border-top-color: #0076B1;
   color: #fff; }
 
 .jumpbox-cat-link:hover {
-  background-color: #12A3EB;
-  border-top-color: #12A3EB;
+  background-color: #e68c17;
+  border-top-color: #e68c17;
   color: #fff; }
 
 .jumpbox-forum-link {
-  background-color: #E1EBF2; }
+  background-color: #fafafa; }
 
 .jumpbox-forum-link:hover {
-  background-color: #F6F4D0; }
+  background-color: #fcfcfc; }
 
 .jumpbox .dropdown .pointer-inner {
-  border-color: #E1EBF2 transparent; }
+  border-color: #fafafa transparent; }
 
 .jumpbox-sub-link {
   background-color: #fafafa; }
