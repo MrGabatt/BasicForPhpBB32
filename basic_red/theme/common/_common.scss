@@ -1782,7 +1782,8 @@ $pagination-link-line-height:		$font-size !default;
 // Pagination in viewforum for multipage topics
 .row .pagination {
 	display: block;
-	margin-top: -12px;
+	margin-top: 3px;
+	margin-bottom: 3px;
 }
 
 .row .pagination > ul {
@@ -2252,6 +2253,7 @@ ul.linklist:after,
 
 .notification_text {
 	margin-left: 58px;
+	white-space: normal;
 }
 
 .badge {
