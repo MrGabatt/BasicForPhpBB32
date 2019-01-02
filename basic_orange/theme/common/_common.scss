@@ -2310,6 +2310,10 @@ ul.linklist:after,
 	width: 50px;
 }
 
+.dropdown .clone.hidden  {
+	display: none;
+}
+
 .dropdown .clone.hidden + li.separator {
 	display: none;
 }
